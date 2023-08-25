@@ -1,0 +1,3 @@
+xin chào!
+hôm nay tôi đang tìm hiểu cách sử dụng github
+tạo repository để chia sẽ link
